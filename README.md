@@ -19,7 +19,8 @@ Analyzes Netflix’s content library to understand its global expansion, genre d
 
 ---
 
-
+### Project 3-Predicting Housing Market Trends with AI
+[View Project](
 
 ## How to Explore
 
