@@ -24,6 +24,9 @@ Analyzes Netflix’s content library to understand its global expansion, genre d
 
 --
 
+### Project 4-AI in Healthcare: Building a Life-Saving Heart Disease Predictor
+[View Project](https://github.com/RakshitKaintura/AI-in-Healthcare-Building-a-Life-Saving-Heart-Disease-Predictor)
+--
 ## How to Explore
 
 1. Click on any project link above.  
