@@ -20,7 +20,9 @@ Analyzes Netflix’s content library to understand its global expansion, genre d
 ---
 
 ### Project 3-Predicting Housing Market Trends with AI
-[View Project](
+[View Project](https://github.com/RakshitKaintura/Predicting-Housing-Market-Trends-with-AI)
+
+--
 
 ## How to Explore
 
