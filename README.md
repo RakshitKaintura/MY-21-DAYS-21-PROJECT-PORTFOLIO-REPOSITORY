@@ -71,6 +71,10 @@ Used AI to group customers into different personas for targeted marketing.
 [View Project →](https://github.com/RakshitKaintura/Smart-Segmentation-Unlocking-Customer-Personas-with-AI)
 
 ---
+## Project 6 Predicting Future Store Sales with AI
+https://github.com/RakshitKaintura/Predicting-Future-Store-Sales-with-AI
+
+## Project 7Preventing Customer Churn with Feature Transformation
 
 ## Technologies Used
 
